@@ -1,10 +1,10 @@
 body{
-  font-family: 'Krona One', sans-serif;
-  margin: 0;
+  font-family: 'poppins', sans-serif;
+
 }
 
 h1{
-  font-size: 40px;
+  font-size: 50px;
 }
 .orange-heighlight{
   color: orange;
@@ -12,8 +12,9 @@ h1{
 .half-width{
   width: 40%;
   float: left;
-  margin: 3%;
-  padding: 2%;
+  margin-left: 5%;
+  padding-left: 2%;
+  
 }
 .half-width img{
   width: 100%;
@@ -23,11 +24,11 @@ h1{
  background-image: url("images/top-banner.png");
  background-repeat: no-repeat;
 
-}
+} 
 section{
-  height: 800px;
+  height: 600px;
   padding-bottom: 150px ;
-  border: 2px solid red;
+
 }
 .btn1{
   text-decoration: none;
@@ -53,7 +54,7 @@ section{
 .single-experience{
   box-shadow: 10px 10px 40px grey;
   border-radius: 5px;
-  height: 50%;
+  height: 75%;
   background-color: white;
 }
 .experience-area{
